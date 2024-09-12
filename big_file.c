@@ -1,7 +1,7 @@
 /**********************************************
 *  Filename: enums.c
 *  Description: using Enums 
-*  Author: Bob Turney
+*  Author: Bob Turney was here
 *  Date: 3/7/2022
 ***********************************************/  
 #include <stdio.h>
